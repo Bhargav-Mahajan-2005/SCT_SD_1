@@ -24,7 +24,7 @@ A Python application that converts temperatures between Celsius, Fahrenheit, and
 3. Run:
 
 ```bash
-python app.py
+python temp_change.py
 ```
 
 ## Future Enhancements
@@ -32,5 +32,4 @@ python app.py
 - Dark mode
 - Scientific calculations
 
-## Author
-Bhargav Mahajan
+
