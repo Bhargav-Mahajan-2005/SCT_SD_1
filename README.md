@@ -1,33 +1,36 @@
-# Calculator App
+# Temperature Converter
 
 ## Description
-A desktop Calculator application developed using Python that performs basic arithmetic operations through a simple and user-friendly graphical interface.
+A Python application that converts temperatures between Celsius, Fahrenheit, and Kelvin using an easy-to-use interface.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Clear Screen
-- Error Handling
-- Responsive GUI
+- Celsius to Fahrenheit
+- Celsius to Kelvin
+- Fahrenheit to Celsius
+- Fahrenheit to Kelvin
+- Kelvin to Celsius
+- Kelvin to Fahrenheit
+- Input Validation
+- User-Friendly Interface
 
 ## Technologies Used
 - Python 3
-- Tkinter
+- Tkinter (GUI) / Console
 
-## How to Run
+## Installation
 
 1. Clone the repository
-2. Install Python 3
-3. Run
+2. Navigate to the project directory
+3. Run:
 
+```bash
 python app.py
+```
 
-## Future Improvements
-- Scientific Calculator
-- Dark Mode
-- Keyboard Shortcuts
+## Future Enhancements
+- Temperature history
+- Dark mode
+- Scientific calculations
 
 ## Author
 Bhargav Mahajan
